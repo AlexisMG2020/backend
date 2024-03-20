@@ -32,4 +32,7 @@ async function consultarDatos() {
 }
 
 // Llamar a la función para realizar la consulta
+
+
+
 consultarDatos();
