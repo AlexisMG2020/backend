@@ -4,8 +4,8 @@ const sql = require('mssql');
 const config = {
   user: 'sa',
   password: 'S3guridad.2022',
-  server: 'SRV-ZASCITA-SM',
-  port: 2552,
+  server: '34.16.56.79',
+  port: 1433,
   database: 'Zascita_BD',
   options: {
     encrypt: false // Si estás utilizando una conexión segura (SSL), establece esto en true
