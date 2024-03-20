@@ -2,7 +2,7 @@ const sql = require('mssql');
 
 // Configuración de la conexión a la base de datos
 const config = {
-  user: 'sa',
+  user: 'sqlserver',
   password: 'S3guridad.2022',
   server: '34.16.56.79',
   port: 1433,
